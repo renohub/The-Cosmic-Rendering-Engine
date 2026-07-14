@@ -1,6 +1,8 @@
 # The-Cosmic-Rendering-Engine
 Simulation of a collapse-protected Cosmic Rendering Engine based on R. Babac (2026). It solves the Multi-User Distance Paradox by splitting the system:  1) Substrate (Rust): Static object data stored once. 2) Streams: Massless photon data throttled dynamically over r4.  Features a Web 3D Sandbox &amp; One-Electron stress test. 
 
+[cite_start]👉 **Read the full academic paper here:** [Download PDF](https://zenodo.org/records/21296421) [cite: 1]
+
 The Physical Problem: The Multi-User Distance Paradox
 
 In digital physics, the universe is modeled as a highly efficient information-processing system. However, when multiple observers (clients) simultaneously view an object from different distances, a massive system conflict arises: 
